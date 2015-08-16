@@ -16,3 +16,7 @@ dist/
 
 # Staticfiles
 staticfiles/
+
+.python-version
+development.env
+local_node/
